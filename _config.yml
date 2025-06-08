@@ -16,7 +16,7 @@ website_title: <a href="https://davidrengineer.github.io/technical_dives/ ">Tech
 
 
 url: davidrengineer.github.io
-baseurl: /telecom_cv
+baseurl: /telecom
 
 # Dark Mode (true/false/never)
 darkmode: never
